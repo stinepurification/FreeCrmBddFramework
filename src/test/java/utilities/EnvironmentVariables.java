@@ -1,0 +1,5 @@
+package utilities;
+
+public enum EnvironmentVariables {
+    USERS, CONTACTS, SERVICES, ORDERS, CUSTOMERS, JIRA_TICKETS, BROWSER_LOG, BUNDLES, STORY_DATA, RUN_TIME_ERRORS, CIRCUITS
+}
