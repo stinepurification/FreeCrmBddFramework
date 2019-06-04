@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="FreeCrmBDDDFramework" />
+        <module name="FreeCrmBDDFramework" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="FreeCrmBDDDFramework" target="1.5" />
+      <module name="FreeCrmBDDFramework" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

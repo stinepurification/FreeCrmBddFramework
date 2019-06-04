@@ -35,7 +35,7 @@ public class LoginSteps {
 
 	@Then("^user clicks on Login button$")
 	public void user_clicks_on_Login_button() {
-		WebElement loginButton = driver.findElement(By.name("login"));
+		WebElement loginButton = driver.findElement(By.name("ogin"));
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		js.executeScript("arguments[0].click();", loginButton);
 	}

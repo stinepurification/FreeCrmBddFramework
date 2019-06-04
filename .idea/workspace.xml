@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1477bf77-1f5c-4073-a9b5-412083d01b8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/page/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FreeCrmBDDDFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FreeCrmBDDFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit_sml/cucumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junit_sml/cucumber.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/bdd/runner/LoginRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/bdd/runner/LoginRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/bdd/steps/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/bdd/steps/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/bdd/runner/LoginRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/bdd/runner/LoginRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/bdd/steps/LoginSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/bdd/steps/LoginSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-outout/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-outout/report.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +21,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/page/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/features/login.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="100">
+              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/bdd/steps/LoginSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="580">
+              <caret line="37" column="61" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/bdd/runner/LoginRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -46,6 +81,8 @@
         <option value="$PROJECT_DIR$/src/test/java/modeling/StoryData.java" />
         <option value="$PROJECT_DIR$/src/test/java/modeling/Bundle.java" />
         <option value="$PROJECT_DIR$/src/test/java/modeling/Bundles.java" />
+        <option value="$PROJECT_DIR$/src/main/java/page/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/bdd/steps/LoginSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/bdd/runner/LoginRunner.java" />
       </list>
     </option>
@@ -79,7 +116,44 @@
               <item name="FreeCrmBDDDFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="FreeCrmBDDDFramework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FreeCrmBDDDFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FreeCrmBDDDFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FreeCrmBDDDFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FreeCrmBDDDFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FreeCrmBDDDFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FreeCrmBDDDFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FreeCrmBDDDFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FreeCrmBDDDFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bdd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FreeCrmBDDDFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FreeCrmBDDDFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bdd" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FreeCrmBDDDFramework" type="b2602c69:ProjectViewProjectNode" />
@@ -96,6 +170,11 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FreeCrmBDDDFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FreeCrmBDDDFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="test-outout" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -106,7 +185,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559675891694" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559676377019" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -137,7 +216,7 @@
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
       <option name="GLUE" value="bdd.steps" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="FreeCrmBDDDFramework" />
+      <module name="FreeCrmBDDFramework" />
       <option name="NAME_FILTER" value="^Free CRM Login Test Scenario$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Free CRM Login Test Scenario$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: Free CRM Login Test Scenario" />
@@ -152,7 +231,7 @@
       </method>
     </configuration>
     <configuration name="LoginRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FreeCrmBDDDFramework" />
+      <module name="FreeCrmBDDFramework" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="bdd.runner.*" />
@@ -162,6 +241,53 @@
       <option name="PACKAGE_NAME" value="bdd.runner" />
       <option name="MAIN_CLASS_NAME" value="bdd.runner.LoginRunner" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="FreeCrmBDDFramework" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="FreeCrmBDDFramework" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -183,7 +309,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559670368921</updated>
-      <workItem from="1559670375145" duration="2949000" />
+      <workItem from="1559670375145" duration="4136000" />
     </task>
     <servers />
   </component>
@@ -206,9 +332,18 @@
     <history-entry file="Scenario__Free_CRM_Login_Test_Scenario - 2019.06.04 at 14h 17m 01s.xml">
       <configuration name="Scenario: Free CRM Login Test Scenario" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+    <history-entry file="LoginRunner - 2019.06.04 at 14h 17m 59s.xml">
+      <configuration name="LoginRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginRunner - 2019.06.04 at 14h 24m 43s.xml">
+      <configuration name="LoginRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginRunner - 2019.06.04 at 14h 25m 49s.xml">
+      <configuration name="LoginRunner" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2949000" />
+    <option name="totallyTimeSpent" value="4136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1015" extended-state="6" />
@@ -219,17 +354,17 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973147" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973147" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32943925" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32943925" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Version Control" weight="0.8271028" />
+      <window_info anchor="bottom" id="Terminal" weight="0.51752335" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32943925" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.625" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3364486" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -280,13 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/bdd/runner/LoginRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test-outout/report.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -308,10 +436,31 @@
     <entry file="file://$PROJECT_DIR$/test-outout/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/page/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/bdd/steps/LoginSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="37" column="61" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/login.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="100">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/bdd/runner/LoginRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
